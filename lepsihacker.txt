@@ -1,0 +1,1 @@
+print "Najlepsi prikaz v PAJTONE D"
